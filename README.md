@@ -81,7 +81,7 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 ```
 lyra_transformer/
 ├── README.md # Documentation principale (Français)
-├── README_en.md # Documentation traduite en anglais
+├── README_En.md # Documentation traduite en anglais
 │
 ├── code/ # Scripts d'entraînement et tests
 │ └── Mistral_estate.py # Script Colab pour l'entraînement LoRA (immobilier)
