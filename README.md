@@ -10,6 +10,7 @@ L’objectif est de montrer la capacité à :
 - publier le modèle complet sur Hugging Face,
 - documenter le projet dans un format reproductible et exploitable.
 
+---
 
 Le modèle est disponible publiquement sur Hugging Face :
 👉 [https://huggingface.co/jeromex1/Lyra-Mistral7B-immobilier-LoRA](https://huggingface.co/jeromex1/Lyra-Mistral7B-immobilier-LoRA)
