@@ -11,6 +11,8 @@ The goal is to demonstrate the ability to:
 - document the project in a reproducible and usable format.
 
 ---
+The model is publicly available on Hugging Face:
+👉 [https://huggingface.co/jeromex1/Lyra-Mistral7B-immobilier-LoRA](https://huggingface.co/jeromex1/Lyra-Mistral7B-immobilier-LoRA)
 
 ## 🔹 Technical Summary
 - **Base model**: `mistralai/Mistral-7B-Instruct-v0.3`  
