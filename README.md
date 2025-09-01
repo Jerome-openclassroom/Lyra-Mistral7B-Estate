@@ -76,3 +76,22 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 | Surface : 120 m²<br>Type : maison<br>État : excellent<br>Zone : A | Valeur estimée entre 500 000 € et 600 000 €. Situation privilégiée, grande surface et état excellent. |
 
 ---
+## 💾 Arborescence
+
+```
+lyra_transformer/
+├── README.md # Documentation principale (Français)
+├── README_en.md # Documentation traduite en anglais
+│
+├── code/ # Scripts d'entraînement et tests
+│ └── Mistral_estate.py # Script Colab pour l'entraînement LoRA (immobilier)
+│
+├── datasets/ # Jeux de données utilisés pour l'entraînement
+│ ├── train_lyra_immo_mistral.jsonl # Dataset d'entraînement (estimation immobilière)
+│ └── validation_lyra_immo_mistral.jsonl # Dataset de validation
+│
+├── curve/ # Courbes et métriques d'apprentissage
+│ └── learning_curve.xlsx # Fichier Excel (valeurs + graphique loss/steps)
+```
+
+
