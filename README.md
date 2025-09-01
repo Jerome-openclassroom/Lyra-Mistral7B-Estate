@@ -11,6 +11,9 @@ L’objectif est de montrer la capacité à :
 - documenter le projet dans un format reproductible et exploitable.
 
 ---
+Le modèle est disponible publiquement sur Hugging Face :
+👉 [https://huggingface.co/jeromex1/Lyra-Mistral7B-immobilier-LoRA](https://huggingface.co/jeromex1/Lyra-Mistral7B-immobilier-LoRA)
+---
 
 ## 🔹 Bilan technique
 - **Base model** : `mistralai/Mistral-7B-Instruct-v0.3`  
